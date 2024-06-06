@@ -21,6 +21,8 @@ These are my go to guides that I use all the time.
 
 [Installing and using Yay](https://github.com/Hit360D/yay-aur-helper)
 
+[Xinit everything and autostart X at login](https://wiki.archlinux.org/title/xinit#:~:text=Autostart%20X%20at%20login,-Make%20sure%20that&text=The%20exec%20command%20ensures%20that,X%20session%20ends%2C%20remove%20exec%20.)
+
 ## VM
 
 [Exposing VM to network](https://github.com/Hit360D/bridged-networking-KVM)
