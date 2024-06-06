@@ -13,3 +13,14 @@ These are my go to guides that I use all the time.
 
 [Installing DWM (Dynamic Window Manager) by David Sadler](https://davidtsadler.com/posts/arch/2020-08-17/installing-st-dmenu-dwm-in-arch-linux/)
 
+# My own
+
+## Arch
+
+[Network config during manual Arch install](https://github.com/Hit360D/networking-during-arch-install)
+
+[Installing and using Yay](https://github.com/Hit360D/yay-aur-helper)
+
+## VM
+
+[Exposing VM to network](https://github.com/Hit360D/bridged-networking-KVM)
