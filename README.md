@@ -9,6 +9,8 @@ These are my go to guides that I use all the time.
 
 [PCI Passthrough via OVMF ArchWiki](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF)
 
+[VFIO-GPU-PASSTHROUGH-KVM-GUIDE by ethannji](https://github.com/ethannij/VFIO-GPU-PASSTHROUGH-KVM-GUIDE/blob/master/README.md)
+
 # Desktop Managers
 
 [Installing DWM (Dynamic Window Manager) by David Sadler](https://davidtsadler.com/posts/arch/2020-08-17/installing-st-dmenu-dwm-in-arch-linux/)
