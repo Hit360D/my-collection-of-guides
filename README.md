@@ -15,6 +15,9 @@ These are my go to guides that I use all the time.
 
 [Installing DWM (Dynamic Window Manager) by David Sadler](https://davidtsadler.com/posts/arch/2020-08-17/installing-st-dmenu-dwm-in-arch-linux/)
 
+# Shell configuration
+[Configuring Zsh without dependencies](https://thevaluable.dev/zsh-install-configure-mouseless/)
+
 # My own
 
 ## Arch
